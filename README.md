@@ -25,12 +25,15 @@ A webpage application using C# to create and use a database to store both Stylis
 - Navigate to the HairSalon directory in your terminal and create a new file called appsettings.json
 - Within this file add the following lines of code:
 
-`{
+```
+{
   "ConnectionStrings": {
     "DefaultConnection": "Server=localhost;Port=3306;database=michael_carroll;uid=root;pwd=epicodus;",
     "TestConnection": "Server=localhost;Port=3306;database=michael_carroll;uid=root;pwd=epicodus;"
   }
 }
+```
+
 - Open MySQL Workbench and use data import/restore to add the database to your system.
 - This will allow you to use the natalie_benjes.sql file. 
 - Once this has been set up, navigate to the HairSalon directory and run `$ dotnet watch run``
