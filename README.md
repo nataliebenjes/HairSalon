@@ -36,7 +36,7 @@ A webpage application using C# to create and use a database to store both Stylis
 
 - Open MySQL Workbench and use data import/restore to add the database to your system.
 - This will allow you to use the natalie_benjes.sql file. 
-- Once this has been set up, navigate to the HairSalon directory and run `$ dotnet watch run``
+- Once this has been set up, navigate to the HairSalon directory and run ```$ dotnet watch run```
 
 
 ## Known Bugs
