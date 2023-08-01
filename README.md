@@ -28,8 +28,8 @@ A webpage application using C# to create and use a database to store both Stylis
 ```
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Server=localhost;Port=3306;database=michael_carroll;uid=root;pwd=epicodus;",
-    "TestConnection": "Server=localhost;Port=3306;database=michael_carroll;uid=root;pwd=epicodus;"
+    "DefaultConnection": "Server=localhost;Port=3306;database=natalie_benjes;uid=root;pwd=epicodus;",
+    "TestConnection": "Server=localhost;Port=3306;database=natalie_benjes;uid=root;pwd=epicodus;"
   }
 }
 ```
